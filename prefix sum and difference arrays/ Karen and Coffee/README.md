@@ -58,3 +58,4 @@ She asks 4 questions:
 3. In her third question, she wants to know the number of admissible integer temperatures between 95 and 96 degrees, inclusive. There are none.
 4. In her final question, she wants to know the number of admissible integer temperatures between 90 and 100 degrees, inclusive. There are 4: 92, 93, 94, and 97 degrees are all admissible.
 
+[See the problem on Codeforces](https://codeforces.com/contest/816/problem/B)
